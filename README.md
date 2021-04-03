@@ -1,7 +1,7 @@
 # Colorizer
 Old image and video colorization and restoration using DeOldify model
 
-####[Demo Video](https://www.youtube.com/watch?v=p45lhRBoFYo)
+#### [Demo Video](https://www.youtube.com/watch?v=p45lhRBoFYo)
 
 ### Installation
 
